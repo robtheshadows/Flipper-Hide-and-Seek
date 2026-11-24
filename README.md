@@ -2,6 +2,14 @@
 
 Turn your Flipper Zero into a hide-and-seek toolkit with three game modes using its speaker, vibration motor, RGB LED, and NFC reader.
 
+## Screenshots
+
+![Game Modes](<screenshots/Game Modes.png>)
+![Find the Flipper](<screenshots/Find the Flipper.png>)
+![Seeker Deck](<screenshots/Seeker Deck.png>)
+![NFC Tag-Out](<screenshots/NFC Tag Out.png>)
+![Games Menu](screenshots/Menu.png)
+
 ## Modes
 
 ### 1. Find the Flipper (Beacon)
