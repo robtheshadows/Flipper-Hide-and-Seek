@@ -8,7 +8,6 @@ Turn your Flipper Zero into a hide-and-seek toolkit with three game modes using 
 ![Find the Flipper](<screenshots/Find the Flipper.png>)
 ![Seeker Deck](<screenshots/Seeker Deck.png>)
 ![NFC Tag-Out](<screenshots/NFC Tag Out.png>)
-![Games Menu](screenshots/Menu.png)
 
 ## Modes
 
