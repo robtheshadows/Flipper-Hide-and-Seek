@@ -73,3 +73,9 @@ hide_and_seek/
 ├── LICENSE           # MIT License
 └── README.md         # Project documentation
 ```
+
+## Support
+
+Enjoying Hide & Seek on your Flipper Zero? Want to buy me a coffee?
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/robtheshadows)
