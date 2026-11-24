@@ -1,0 +1,22 @@
+App(
+    appid="hide_and_seek",
+    name="Hide & Seek",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="hide_and_seek_app",
+    stack_size=2 * 1024,
+    fap_category="Games",
+    fap_icon="hide_and_seek.png",
+    fap_version="0.4",
+    fap_description="Hide and Seek toolkit with Beacon, Seeker, and NFC Tag-Out",
+)
+
+App(
+    appid="hide_and_seek",
+    name="Hide & Seek",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="hide_and_seek_app",
+    stack_size=4 * 1024,
+    fap_category="Games",
+    fap_version="0.3",
+    fap_description="Hide and Seek toolkit with Beacon, Seeker, and NFC Tag-Out",
+)
