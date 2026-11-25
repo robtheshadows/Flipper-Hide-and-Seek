@@ -70,6 +70,7 @@ hide_and_seek/
 ├── application.fam   # Flipper app manifest (Games category)
 ├── hide_and_seek.c   # App logic, UI views, notifications, and NFC poller
 ├── hide_and_seek.png # Flipper App Image
+├── changelog.md      # Changelog for versions
 ├── LICENSE           # MIT License
 └── README.md         # Project documentation
 ```
